@@ -1,0 +1,16 @@
+C:\Users\sgbre\Documents\Code\theaccountclass\bin\Debug\netcoreapp5.0\theaccountclass.exe
+C:\Users\sgbre\Documents\Code\theaccountclass\bin\Debug\netcoreapp5.0\theaccountclass.deps.json
+C:\Users\sgbre\Documents\Code\theaccountclass\bin\Debug\netcoreapp5.0\theaccountclass.runtimeconfig.json
+C:\Users\sgbre\Documents\Code\theaccountclass\bin\Debug\netcoreapp5.0\theaccountclass.runtimeconfig.dev.json
+C:\Users\sgbre\Documents\Code\theaccountclass\bin\Debug\netcoreapp5.0\theaccountclass.dll
+C:\Users\sgbre\Documents\Code\theaccountclass\bin\Debug\netcoreapp5.0\ref\theaccountclass.dll
+C:\Users\sgbre\Documents\Code\theaccountclass\bin\Debug\netcoreapp5.0\theaccountclass.pdb
+C:\Users\sgbre\Documents\Code\theaccountclass\obj\Debug\netcoreapp5.0\theaccountclass.csproj.AssemblyReference.cache
+C:\Users\sgbre\Documents\Code\theaccountclass\obj\Debug\netcoreapp5.0\theaccountclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgbre\Documents\Code\theaccountclass\obj\Debug\netcoreapp5.0\theaccountclass.AssemblyInfoInputs.cache
+C:\Users\sgbre\Documents\Code\theaccountclass\obj\Debug\netcoreapp5.0\theaccountclass.AssemblyInfo.cs
+C:\Users\sgbre\Documents\Code\theaccountclass\obj\Debug\netcoreapp5.0\theaccountclass.csproj.CoreCompileInputs.cache
+C:\Users\sgbre\Documents\Code\theaccountclass\obj\Debug\netcoreapp5.0\theaccountclass.dll
+C:\Users\sgbre\Documents\Code\theaccountclass\obj\Debug\netcoreapp5.0\ref\theaccountclass.dll
+C:\Users\sgbre\Documents\Code\theaccountclass\obj\Debug\netcoreapp5.0\theaccountclass.pdb
+C:\Users\sgbre\Documents\Code\theaccountclass\obj\Debug\netcoreapp5.0\theaccountclass.genruntimeconfig.cache

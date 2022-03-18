@@ -1,0 +1,16 @@
+C:\Users\sgbre\Documents\Code\task7_1\bin\Debug\netcoreapp5.0\task7_1.exe
+C:\Users\sgbre\Documents\Code\task7_1\bin\Debug\netcoreapp5.0\task7_1.deps.json
+C:\Users\sgbre\Documents\Code\task7_1\bin\Debug\netcoreapp5.0\task7_1.runtimeconfig.json
+C:\Users\sgbre\Documents\Code\task7_1\bin\Debug\netcoreapp5.0\task7_1.runtimeconfig.dev.json
+C:\Users\sgbre\Documents\Code\task7_1\bin\Debug\netcoreapp5.0\task7_1.dll
+C:\Users\sgbre\Documents\Code\task7_1\bin\Debug\netcoreapp5.0\ref\task7_1.dll
+C:\Users\sgbre\Documents\Code\task7_1\bin\Debug\netcoreapp5.0\task7_1.pdb
+C:\Users\sgbre\Documents\Code\task7_1\obj\Debug\netcoreapp5.0\task7_1.csproj.AssemblyReference.cache
+C:\Users\sgbre\Documents\Code\task7_1\obj\Debug\netcoreapp5.0\task7_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgbre\Documents\Code\task7_1\obj\Debug\netcoreapp5.0\task7_1.AssemblyInfoInputs.cache
+C:\Users\sgbre\Documents\Code\task7_1\obj\Debug\netcoreapp5.0\task7_1.AssemblyInfo.cs
+C:\Users\sgbre\Documents\Code\task7_1\obj\Debug\netcoreapp5.0\task7_1.csproj.CoreCompileInputs.cache
+C:\Users\sgbre\Documents\Code\task7_1\obj\Debug\netcoreapp5.0\task7_1.dll
+C:\Users\sgbre\Documents\Code\task7_1\obj\Debug\netcoreapp5.0\ref\task7_1.dll
+C:\Users\sgbre\Documents\Code\task7_1\obj\Debug\netcoreapp5.0\task7_1.pdb
+C:\Users\sgbre\Documents\Code\task7_1\obj\Debug\netcoreapp5.0\task7_1.genruntimeconfig.cache
